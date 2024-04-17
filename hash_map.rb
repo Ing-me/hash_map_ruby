@@ -187,9 +187,6 @@ class HashMap
 end
 
 
-class Hashset
-
-end
 
 hash = HashMap.new(20)
 
